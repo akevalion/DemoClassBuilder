@@ -13,4 +13,4 @@ Metacello new
     load.
 ```
 
-To use it just inspect any class, like `Collection inspect`
+To use it just inspect any class, like `Collection inspect`.
