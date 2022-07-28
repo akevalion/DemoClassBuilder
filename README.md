@@ -8,8 +8,8 @@ To install execute the followint incantation on a playground in Pharo.
 
 ```st
 Metacello new
-    baseline: 'Roassal3';
-    repository: 'github://ObjectProfile/Roassal3:v0.9.9g';
+    baseline: 'DemoClassBuilder';
+    repository: 'github://akevalion/DemoClassBuilder';
     load.
 ```
 
