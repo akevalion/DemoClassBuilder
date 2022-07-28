@@ -9,6 +9,6 @@ BaselineOfDemoClassBuilder >> baseline: spec [
 	<baseline>
 	spec for: #common do: [
 		spec package: 'Demo'.
-		spec package: 'Demo-Test'.
+		spec package: 'Demo-Tests'.
 		 ]
 ]
