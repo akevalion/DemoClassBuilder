@@ -46,7 +46,6 @@ TreeClassBuilder >> createLinesFor: boxes [
 TreeClassBuilder >> defaultContainer [
 	^ RSCanvas new
 		@ RSCanvasController;
-		@ RSInteractiveExporter;
 		yourself
 ]
 
